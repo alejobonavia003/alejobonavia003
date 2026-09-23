@@ -26,7 +26,7 @@
 - 🎓 Estudio en **UNRC Analista en ciencias de la computacion**
 - 🌍 Vivo en **Rio Cuarto, Cordoba**
 - 🔭 Actualmente trabajando en **Proyectos y soluciones para empresas pequeñas**
-- 🌱 Aprendiendo **Machin learning**
+- 🌱 Aprendiendo **Aprendiendo IA y automatización**
 - ⚡ Dato curioso: **Me gusta hacer boxeo**
 
 ---
@@ -59,12 +59,10 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alejobonavia003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejobonavia003&layout=compact&theme=tokyonight&hide_border=true" alt="lenguajes top"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=alejobonavia003&theme=tokyonight&hide_border=true" alt="racha"/>
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats"/>
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="lenguajes"/>
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="repos por lenguaje"/>
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="horario productivo"/>
 </div>
 
 ---
@@ -83,20 +81,18 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [**Proyecto 1**](https://github.com/alejobonavia003/proyecto-1) | Breve descripción de qué hace | `React` `Node.js` |
-| [**Proyecto 2**](https://github.com/alejobonavia003/proyecto-2) | Breve descripción de qué hace | `Python` `Django` |
-| [**Proyecto 3**](https://github.com/alejobonavia003/proyecto-3) | Breve descripción de qué hace | `TypeScript` `Next.js` |
+| [**Proyecto 1**](https://github.com/alejobonavia003/schemakit) | Breve descripción de qué hace | `React` `Node.js` |
+| [**Proyecto 2**](https://github.com/alejobonavia003/Proyecto-integrador-Ing-2026) | Breve descripción de qué hace | `java` `spark` |
+| [**Proyecto 3**](https://github.com/alejobonavia003/ImperioSur) | Breve descripción de qué hace | `PHP` |
 
 </div>
 
-Si preferís tarjetas visuales, podés usar esto en lugar de la tabla:
-
 <div align="center">
-  <a href="https://github.com/alejobonavia003/proyecto-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejobonavia003&repo=proyecto-1&theme=tokyonight&hide_border=true" alt="proyecto 1"/>
+  <a href="https://github.com/alejobonavia003/schemakit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejobonavia003&repo=schemakit&theme=tokyonight&hide_border=true" alt="schemakit"/>
   </a>
-  <a href="https://github.com/alejobonavia003/proyecto-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejobonavia003&repo=proyecto-2&theme=tokyonight&hide_border=true" alt="proyecto 2"/>
+  <a href="https://github.com/alejobonavia003/Proyecto-integrador-Ing-2026">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejobonavia003&repo=Proyecto-integrador-Ing-2026&theme=tokyonight&hide_border=true" alt="Proyecto-integrador-Ing-2026"/>
   </a>
 </div>
 
@@ -119,7 +115,7 @@ Si preferís tarjetas visuales, podés usar esto en lugar de la tabla:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/alejobonavia003"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="www.linkedin.com/in/alejo-bonavia-550539278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:tucorreo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://tuportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://twitter.com/alejobonavia003"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
