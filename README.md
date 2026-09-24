@@ -1,15 +1,9 @@
-<!-- ============================================================
-  REEMPLAZÁ: alejobonavia003, TU NOMBRE, links y textos.
-  Guardá este archivo como README.md en un repo público
-  con el MISMO nombre que tu usuario de GitHub.
-============================================================= -->
-
 <!-- Encabezado con onda animada -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hola%2C%20soy%20Alejo%20Bonavia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20%7C%20Apasionado%20por%20crear%20cosas&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <!-- Texto que se escribe solo -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Siempre+aprendiendo+algo+nuevo;Me+gusta+resolver+problemas+con+c%C3%B3digo;Abierto+a+colaborar+en+proyectos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Analista+en+Ciencias+de+la+Computaci%C3%B3n+(en+formaci%C3%B3n);Aprendiendo+IA+y+automatizaci%C3%B3n;Soluciones+para+peque%C3%B1as+empresas" alt="Typing SVG" />
 </div>
 
 <br>
@@ -23,11 +17,11 @@
 
 ## 👋 Sobre mí
 
-- 🎓 Estudio en **UNRC Analista en ciencias de la computacion**
-- 🌍 Vivo en **Rio Cuarto, Cordoba**
-- 🔭 Actualmente trabajando en **Proyectos y soluciones para empresas pequeñas**
-- 🌱 Aprendiendo **Aprendiendo IA y automatización**
-- ⚡ Dato curioso: **Me gusta hacer boxeo**
+- 🎓 Estudio Analista en Ciencias de la Computación en la **UNRC**
+- 🌍 Vivo en **Río Cuarto, Córdoba**
+- 🔭 Actualmente trabajo en **proyectos y soluciones para empresas pequeñas**
+- 🌱 Aprendiendo **IA y automatización**
+- ⚡ Dato curioso: **me gusta hacer boxeo**
 
 ---
 
@@ -37,7 +31,7 @@
 
 **Lenguajes**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,c&theme=dark" alt="lenguajes"/>
+<img src="https://skillicons.dev/icons?i=js,ts,java,cs,php,c&theme=dark" alt="lenguajes"/>
 
 **Frontend**
 
@@ -45,14 +39,13 @@
 
 **Backend y bases de datos**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,mysql,postgres,mongodb&theme=dark" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres,mongodb&theme=dark" alt="backend"/>
 
 **Herramientas**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,aws&theme=dark" alt="herramientas"/>
 
 </div>
-
 
 ---
 
@@ -67,40 +60,22 @@
 
 ---
 
-## 📈 Actividad
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejobonavia003&theme=tokyo-night&hide_border=true&area=true" alt="grafico de actividad" width="100%"/>
-</div>
-
----
-
 ## 🚀 Proyectos destacados
 
 <div align="center">
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [**Proyecto 1**](https://github.com/alejobonavia003/schemakit) | Breve descripción de qué hace | `React` `Node.js` |
-| [**Proyecto 2**](https://github.com/alejobonavia003/Proyecto-integrador-Ing-2026) | Breve descripción de qué hace | `java` `spark` |
-| [**Proyecto 3**](https://github.com/alejobonavia003/ImperioSur) | Breve descripción de qué hace | `PHP` |
+| Proyecto | Tecnologías |
+|----------|-------------|
+| [**schemakit**](https://github.com/alejobonavia003/schemakit) | `React` `Node.js` |
+| [**Proyecto integrador Ing. 2026**](https://github.com/alejobonavia003/Proyecto-integrador-Ing-2026) | `Java` `Spark` |
+| [**ImperioSur**](https://github.com/alejobonavia003/ImperioSur) | `PHP` |
 
-</div>
-
-<div align="center">
-  <a href="https://github.com/alejobonavia003/schemakit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejobonavia003&repo=schemakit&theme=tokyonight&hide_border=true" alt="schemakit"/>
-  </a>
-  <a href="https://github.com/alejobonavia003/Proyecto-integrador-Ing-2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejobonavia003&repo=Proyecto-integrador-Ing-2026&theme=tokyonight&hide_border=true" alt="Proyecto-integrador-Ing-2026"/>
-  </a>
 </div>
 
 ---
 
-## 🐍 Mi contribución en modo snake
+## 🎮 Mi contribución en modo snake
 
-<!-- Requiere configurar el workflow de GitHub Actions (ver instrucciones) -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejobonavia003/alejobonavia003/output/github-snake-dark.svg" />
@@ -115,10 +90,12 @@
 
 <div align="center">
 
-<a href="www.linkedin.com/in/alejo-bonavia-550539278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:tucorreo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://tuportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://twitter.com/alejobonavia003"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://www.linkedin.com/in/alejo-bonavia-550539278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<!-- Descomentá y completá estos cuando tengas los datos reales:
+<a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://TU_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+-->
 
 </div>
 
