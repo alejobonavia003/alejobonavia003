@@ -8,11 +8,7 @@
 
 ## About
 
-I'm studying Computer Science (Analista en Ciencias de la Computación) at UNRC, in Río Cuarto, Córdoba. Most of what I build is aimed at small businesses: practical tools that solve one problem well.
-
-These days I'm digging into AI and automation, mostly to see where they actually save time and where they're just hype.
-
-Away from the keyboard, I box.
+I'm studying Computer Science at UNRC, in Río Cuarto, Córdoba.
 
 ---
 
