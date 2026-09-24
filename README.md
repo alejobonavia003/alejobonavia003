@@ -64,11 +64,11 @@
 
 <div align="center">
 
-| Proyecto | Tecnologías |
-|----------|-------------|
-| [**schemakit**](https://github.com/alejobonavia003/schemakit) | `React` `Node.js` |
-| [**Proyecto integrador Ing. 2026**](https://github.com/alejobonavia003/Proyecto-integrador-Ing-2026) | `Java` `Spark` |
-| [**ImperioSur**](https://github.com/alejobonavia003/ImperioSur) | `PHP` |
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [**schemakit**](https://github.com/alejobonavia003/schemakit) | Plantilla para lanzar servidores en Railway | `React` `Node.js` |
+| [**Proyecto integrador Ing. 2026**](https://github.com/alejobonavia003/Proyecto-integrador-Ing-2026) | Proyecto universitario integrador | `Java` `Spark` |
+| [**ImperioSur**](https://github.com/alejobonavia003/ImperioSur) | Plugin de WordPress | `PHP` |
 
 </div>
 
